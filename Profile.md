@@ -1,3 +1,3 @@
 # This is a test Titel
-## A bigger Test Titel
+## A smaller Test Titel
 ### Hello
